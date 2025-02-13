@@ -1,5 +1,7 @@
-// auto.bat
 @echo off
+
+call information.bat
+
 :menu
 echo +----------------------------------------------+
 echo +       S - Save The System File               +
